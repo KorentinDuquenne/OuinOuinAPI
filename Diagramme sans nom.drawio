@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T14:40:14.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1J4VE3ewauSXPEn4iypy" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T14:42:03.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="m381VqxsFXomM-mLjHjZ" version="20.8.13" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,10 +67,10 @@
         <mxCell id="dDt2gNIv2R4sC2URoS2b-20" value="&lt;font color=&quot;#000000&quot;&gt;Exécution&amp;nbsp;de BR&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;lors de la soumission&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;du block&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#990000&quot;&gt;PHASE : CHANGE&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="830" y="20" width="185" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="PmMd96OI70ctSEaduN0Q-1" value="Concerne les attributs" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PmMd96OI70ctSEaduN0Q-1" value="Concerne les attributs" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PmMd96OI70ctSEaduN0Q-3" value="Concerne les bloc" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="PmMd96OI70ctSEaduN0Q-3" value="Concerne les blocks" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
